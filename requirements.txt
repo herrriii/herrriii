@@ -32,7 +32,6 @@ pyinstall==0.1.4
 PyInstaller==3.5
 pyOpenSSL==19.0.0
 pyowm==2.10.0
-pypiwin32==223
 PySocks==1.7.0
 pyTelegramBotAPI==3.6.6
 pyttsx3==2.71
